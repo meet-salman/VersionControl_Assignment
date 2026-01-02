@@ -1,3 +1,3 @@
-#include <bits/stc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 #define vector <int> vec_i
