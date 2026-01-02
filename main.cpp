@@ -1,7 +1,7 @@
-#include <iostream>
+#include "template.h"
 
 int main()
 {
-    std::cout << "new branch created" << std::endl;
+    cout << "new branch created" << endl;
     return 0;
 }
